@@ -1,0 +1,17 @@
+{
+    "files": ["main.py",
+    "utils/__init__.py",
+    "utils/network.py",
+    "res/__init__.py",
+    "res/qml/main.qml",
+    "res/qml/window.qml",
+    "res/qml/splashscreen.qml",
+    "res/qml/SideNavButton.qml",
+    "res/qml/LargeChartView.qml",
+    "res/qml/CellBox.qml",
+    "res/images/baseline-more_vert-24px.svg",
+    "res/images/baseline-category-24px.svg",
+    "res/images/baseline-menu-24px.svg",
+    "res/images/nex_wallpaper.jpg",
+    "resources.qrc"]
+}
